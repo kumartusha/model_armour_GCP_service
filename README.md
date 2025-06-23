@@ -127,7 +127,7 @@ For more information, see the [gcloud documentation](https://cloud.google.com/sd
 ### 1. 📦 Clone the Repo
 
 ```bash
-git clone https://github.com/anudishu/model-armor-workshop.git
+git clone https://github.com/kumartusha/model_armour_GCP_service.git
 cd model-armor-workshop
 ```
 
