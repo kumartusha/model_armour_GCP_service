@@ -7,9 +7,9 @@ from vertexai.generative_models import GenerativeModel
 
 
 # === Config ===
-PROJECT_ID = "modelarmor-463317"
+PROJECT_ID = "sublime-formula-376616"
 REGION = "us-central1"
-TEMPLATE_ID = "demo-armor-template-1"
+TEMPLATE_ID = "my-first-template"
 MODEL_NAME = "gemini-2.0-flash-001"  # Configure your model here
 
 # === Get Access Token ===
