@@ -1,0 +1,2 @@
+# Ignore all folders named 'venv' recursively
+**/venv/
